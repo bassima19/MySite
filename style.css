@@ -1,0 +1,108 @@
+<style>
+#header {
+    background-color: black;
+}
+.footer {
+    background-color: black;
+    color: white; 
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+.my {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    font-size: 30px;
+    
+}
+.my-link {
+    color: #424242;
+     
+    
+}
+
+.my-link:hover {
+    color: khaki;
+    position: absolute;
+    
+}
+
+#bas {
+    text-align: center;
+font-size: 45px;
+color: white;
+}
+
+#page-container {
+    position: relative;
+    min-height: 100%;
+}
+
+#lolo {
+    float: left;
+    text-align: center;
+    text-align: justify;
+    font-size: x-large;
+    text-indent: 50px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    background: white;
+   word-spacing: 5px;
+}
+#abo ,#cv ,#cer {
+color: white;
+font-size: xx-large;
+font-weight: bold;
+
+}
+.kon  {
+    font-weight: bold;
+    font-size: x-large;
+}
+.texk {
+    font-weight: bold;
+    font-size: x-large;
+    text-decoration: none; 
+}
+.post {
+    font-weight: bold;
+    font-size: x-large; 
+    text-decoration: none; 
+    
+}
+.footer-light {
+    font-size: large; 
+    color: rgb(81, 81, 233);
+   
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+.box li {
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+
+}
+.box li  {
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+transition: all ease-in-out 250ms;
+}
+.box li a:hover {
+ color: rgb(226, 155, 211); 
+
+}
+.footer-link {
+    text-decoration: none;
+    padding-bottom: 50px;
+}
+#button {
+    padding: 700px;
+    width: 900px;
+}
+       </style>
